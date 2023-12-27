@@ -1,0 +1,10 @@
+title: Fast Bulky Vendor
+originalAuthor: Shananas
+assets:
+#obj
+- method: copy
+  name: obj/M_EX590.mset
+  multi:
+  - name: obj/M_EX590_NM.mset
+  source:
+  - name: M_EX590.mset
